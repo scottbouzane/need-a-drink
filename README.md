@@ -64,27 +64,28 @@ The functionality will then be divided into two separate lists: MVP and PostMVP.
 #### MVP
 
 - Use open brewery api with react
-- Render data on page for at least three search options
-- Allow bookmarks/favorites for user
+- home page with at least three search options/buttons
+- render data pulled onto page
+- delete previous searches
 
 #### PostMVP
 
-- Add second API
-- Use local storage to save user favorites
+- Create storage
+- Allow bookmarks/favorites for user
 
 ## Project Schedule
 
 This schedule will be used to keep track of your progress throughout the week and align with our expectations. Here's an example.
 
-| Day        | Deliverable                                        | Status     |
-| ---------- | -------------------------------------------------- | ---------- |
-| July 10-12 | Prompt / Wireframes / Priority Matrix / Timeframes | Incomplete |
-| July 13    | Project Approval                                   | Incomplete |
-| July 13    | Core Application Structure (HTML, CSS, etc.)       | Incomplete |
-| July 14    | Pseudocode / actual code                           | Incomplete |
-| July 15    | Initial Clickable Model                            | Incomplete |
-| July 16    | MVP                                                | Incomplete |
-| July 17    | Presentations                                      | Incomplete |
+| Day          | Deliverable                                        | Status     |
+| ------------ | -------------------------------------------------- | ---------- |
+| December 1st | Prompt / Wireframes / Priority Matrix / Timeframes | Incomplete |
+| December 2nd | Project Approval                                   | Incomplete |
+| December 3rd | Core Application Structure (HTML, CSS, etc.)       | Incomplete |
+| December 6th | Pseudocode / actual code                           | Incomplete |
+| December 7th | Initial Clickable Model                            | Incomplete |
+| December 8th | MVP                                                | Incomplete |
+| December 9th | Presentations                                      | Incomplete |
 
 ## Timeframes
 
@@ -94,16 +95,39 @@ Time frames are also key in the development cycle. You have limited time to code
 
 | Component        | Priority | Estimated Time | Time Invested | Actual Time |
 | ---------------- | :------: | :------------: | :-----------: | :---------: |
-| Adding Form      |    H     |      3hrs      |    3.5hrs     |   3.5hrs    |
-| Working with API |    H     |      3hrs      |    2.5hrs     |   2.5hrs    |
-| Total            |    H     |      6hrs      |     5hrs      |    5hrs     |
+| Pseudo code      |    H     |      3hrs      |               |   3.5hrs    |
+| Header/footer    |    H     |      3hrs      |               |   2.5hrs    |
+| Home page        |    H     |      6hrs      |               |    5hrs     |
+| Working with API |    H     |      3hrs      |               |   3.5hrs    |
+| City Button      |    H     |      3hrs      |               |   2.5hrs    |
+| Form             |    H     |      6hrs      |               |    5hrs     |
+| Delte searches   |    H     |      3hrs      |               |   3.5hrs    |
+| Debug            |    H     |      3hrs      |               |   3.5hrs    |
+| Name button      |    H     |      3hrs      |               |   2.5hrs    |
+| form             |    H     |      6hrs      |               |    5hrs     |
+| delete searches  |    H     |      3hrs      |               |   3.5hrs    |
+| Debug            |    H     |      3hrs      |               |   3.5hrs    |
+| postal button    |    H     |      3hrs      |               |   2.5hrs    |
+| form             |    H     |      6hrs      |               |    5hrs     |
+| delete searches  |    H     |      3hrs      |               |   3.5hrs    |
+| Debug            |    H     |      3hrs      |               |   3.5hrs    |
+| Post MVP         |    H     |      3hrs      |               |   2.5hrs    |
+| Total            |    H     |      6hrs      |               |    5hrs     |
 
 ## SWOT Analysis
 
 ### Strengths:
 
+I understand what my app needs to look like. If I plan everything out step by step it will allow me to complete the project on time
+
 ### Weaknesses:
+
+Understanding functionality with Airtable is definitely my weakness as it is one of the newer materials learned. I will need to spend a bulk of more time incorporating this with my API
 
 ### Opportunities:
 
+This project gives me an opportunity to catch up on material from the last two weeks and showcase my knowledge of it to my peers.
+
 ### Threats:
+
+I can become unmotivated when I cannot solve an issue within a few hours. I like to plan out my project step by step and at times it feels that if I cannot figure out what I am working on currently it discourages me from solving my next problem. I need to understand that confusion is part of the process and reach out to my instructors when help is required.
