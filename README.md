@@ -65,7 +65,8 @@ The functionality will then be divided into two separate lists: MVP and PostMVP.
 
 - input data with airtable api
 - home page with at least three search options/buttons
-- render data pulled onto page
+- use data pulled onto page
+- 6 render compenents total
 - delete previous searches
 
 #### PostMVP
