@@ -6,7 +6,7 @@ need-a-drink
 
 ## Project Description
 
-This app will be used to help users find breweries in the area. I will include at least 3 buttons to allow the user to search by name, by state, and by zip code. Each search will return 20 results per page that include the address, phone number, and website of each result. This is intended to make communication with the brewies easily accessible for the user. Additionally, search results will be deleted when a new input is added to the search bar. In order to allow the user to keep track of interesting brewies before a new search, post MVP I will add storage for a favorite/bookmark option.
+This app will be used to help users find breweries in the area. I will include at least 3 buttons to allow the user to search by name, by state, and by zip code. Each search will return 3 results per page that include the address, phone number, happy hours and image of each result. This is intended to make communication with the brewies easily accessible for the user. Additionally, search results will be deleted when a new input is added to the search bar. In order to allow the user to keep track of interesting brewies before a new search, post MVP I will add storage for a favorite/bookmark option.
 
 ## Wireframes
 
@@ -96,24 +96,24 @@ Time frames are also key in the development cycle. You have limited time to code
 
 | Component        | Priority | Estimated Time | Time Invested | Actual Time |
 | ---------------- | :------: | :------------: | :-----------: | :---------: |
-| Pseudo code      |    H     |      3hrs      |               |   3.5hrs    |
-| Header/footer    |    H     |      3hrs      |               |   2.5hrs    |
-| Home page        |    H     |      6hrs      |               |    5hrs     |
-| Working with API |    H     |      3hrs      |               |   3.5hrs    |
-| City Button      |    H     |      3hrs      |               |   2.5hrs    |
-| Form             |    H     |      6hrs      |               |    5hrs     |
-| Delte searches   |    H     |      3hrs      |               |   3.5hrs    |
-| Debug            |    H     |      3hrs      |               |   3.5hrs    |
-| Name button      |    H     |      3hrs      |               |   2.5hrs    |
-| form             |    H     |      6hrs      |               |    5hrs     |
-| delete searches  |    H     |      3hrs      |               |   3.5hrs    |
-| Debug            |    H     |      3hrs      |               |   3.5hrs    |
-| postal button    |    H     |      3hrs      |               |   2.5hrs    |
-| form             |    H     |      6hrs      |               |    5hrs     |
-| delete searches  |    H     |      3hrs      |               |   3.5hrs    |
-| Debug            |    H     |      3hrs      |               |   3.5hrs    |
-| Post MVP         |    H     |      3hrs      |               |   2.5hrs    |
-| Total            |    H     |      6hrs      |               |    5hrs     |
+| Pseudo code      |    H     |      2hrs      |               |             |
+| Header/footer    |    H     |      2hrs      |               |             |
+| Home page        |    H     |      2hrs      |               |             |
+| Working with API |    H     |      3hrs      |               |             |
+| City Button      |    H     |      2hrs      |               |             |
+| Form             |    H     |      2hrs      |               |             |
+| Delte searches   |    H     |      2hrs      |               |             |
+| Debug            |    H     |     1.5hrs     |               |             |
+| Name button      |    H     |      2hrs      |               |             |
+| form             |    H     |      2hrs      |               |             |
+| delete searches  |    H     |      3hrs      |               |             |
+| Debug            |    H     |      3hrs      |               |             |
+| postal button    |    H     |      2hrs      |               |             |
+| form             |    H     |     2.5hrs     |               |             |
+| delete searches  |    H     |      3hrs      |               |             |
+| Debug            |    H     |      3hrs      |               |             |
+| Post MVP         |    H     |      4hrs      |               |             |
+| Total            |    H     |     38hrs      |               |             |
 
 ## SWOT Analysis
 
