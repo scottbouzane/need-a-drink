@@ -26,34 +26,34 @@ Show us a snippet of JSON returned by your Airtable (you can find it under the A
 {
   "records": [
     {
-      "id": "recONRzIUTuZ5lXaF",
+      "id": "recyAJT4X37ATRaLD",
       "fields": {
-        "author": "Liz Yrineo",
-        "setup": "Why did the tomato turn red?",
-        "punchline": "Because it saw the salad dressing!"
+        "name": "night shift brewing",
+        "contact": "(617) 456-7687",
+        "address": "1 Lovejoy Wharf #101, Boston, MA 02114"
       },
-      "createdTime": "2020-11-30T16:03:09.000Z"
+      "createdTime": "2021-12-02T06:03:03.000Z"
     },
     {
-      "id": "rec3oYZ5Tp0AIDsKe",
+      "id": "rec3qpkCtkYsvkenA",
       "fields": {
-        "author": "Rachel Moskowitz",
-        "setup": "What did the green grape say to the red grape?",
-        "punchline": "Breathe, idiot, breathe!"
+        "name": "east regiment beer co",
+        "address": "30 Church St #B1, Salem, MA 01970",
+        "contact": "(978) 594-4699"
       },
-      "createdTime": "2020-11-30T16:03:09.000Z"
+      "createdTime": "2021-12-02T06:03:03.000Z"
     },
     {
-      "id": "recA34tOaoE1IVeC1",
+      "id": "recv6mpEe8xG5k6Fy",
       "fields": {
-        "author": "Gary Grant",
-        "setup": "How do you make holy water?",
-        "punchline": "You boil the hell out of it!"
+        "name": "harpoon brewery ",
+        "contact": "(617) 456-2322",
+        "address": "306 Northern Ave, Boston, MA 02210"
       },
-      "createdTime": "2020-11-30T16:03:09.000Z"
+      "createdTime": "2021-12-02T06:03:03.000Z"
     }
   ],
-  "offset": "recA34tOaoE1IVeC1"
+  "offset": "itr4tIWNiuzENCxeo/recv6mpEe8xG5k6Fy"
 }
 ```
 
@@ -63,7 +63,7 @@ The functionality will then be divided into two separate lists: MVP and PostMVP.
 
 #### MVP
 
-- Use open brewery api with react
+- input data with airtable api
 - home page with at least three search options/buttons
 - render data pulled onto page
 - delete previous searches
