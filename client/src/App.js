@@ -13,6 +13,11 @@ function App() {
     }
   }
   useEffect(() => {
+    const getAllBrews = async () => {
+      const response = await axios.get(BASE_URL, config)
+      console.log(response.data)
+    }
+    getAllBrews()
 
   })
 
