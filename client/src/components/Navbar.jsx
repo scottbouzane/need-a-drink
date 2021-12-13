@@ -1,8 +1,11 @@
-import {link} from 'react-router-dom'
+import {Link} from 'react-router-dom'
 function Navbar() {
   return (
     <div>
-      <link to='/components/Name'>Name</link>
+      <Link to='/name'>Name</Link>
+      <Link to='/postal'>Postal</Link>
+      <Link to='/state'>State</Link>
+
     </div>
   )
 }

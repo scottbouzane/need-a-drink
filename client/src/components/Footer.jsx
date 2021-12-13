@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer>
-      <h1>THIS IS THE FOOTER</h1>
+      <h1>scottbouzane@gmail.com</h1>
    </footer>
   )
 

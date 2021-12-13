@@ -5,6 +5,9 @@ import axios from 'axios'
 import Header from './components/Header'
 import Footer from './components/Footer'
 import Navbar from './components/Navbar'
+import Name from './components/Name'
+import Postal from './components/Postal'
+import State from './components/State'
 import { Routes, Route } from 'react-router-dom';
 
 
@@ -29,14 +32,17 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Footer />
       <Navbar />
 
       <Routes>
-        <Route path='/components/Name' />
+        <Route path='/name' element={<Name />} />
+        <Route path='/postal' element={<Postal />} />
+        <Route path='/state' element={<State />} />
+        
 
 
       </Routes>
+      <Footer />
 
 
 
