@@ -2,6 +2,10 @@ import logo from './logo.svg';
 import './App.css';
 import { useEffect } from 'react'
 import axios from 'axios'
+import Header from './components/Header'
+import Footer from './components/Footer'
+import Navbar from './components/Navbar'
+import { Route } from 'react-router-dom';
 
 
 
@@ -24,9 +28,14 @@ function App() {
 
   return (
     <div className="App">
-      {
+      <Header />
+      <Footer />
+      <Navbar />
+
+      <Routes>
         
-      }
+      </Routes>
+
       
     </div>
   );
