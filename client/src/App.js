@@ -8,6 +8,7 @@ import Navbar from './components/Navbar'
 import Name from './components/Name'
 import Postal from './components/Postal'
 import State from './components/State'
+import Form from './components/Form'
 import { Routes, Route } from 'react-router-dom';
 
 
@@ -33,6 +34,7 @@ function App() {
     <div className="App">
       <Header />
       <Navbar />
+      <Form />
 
       <Routes>
         <Route path='/name' element={<Name />} />
