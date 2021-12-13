@@ -5,7 +5,7 @@ import axios from 'axios'
 import Header from './components/Header'
 import Footer from './components/Footer'
 import Navbar from './components/Navbar'
-import { Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 
 
 
@@ -33,7 +33,7 @@ function App() {
       <Navbar />
 
       <Routes>
-        <Route path='/home' element={<p>Home</p>}/>
+        <Route path='/home' />
 
 
       </Routes>
