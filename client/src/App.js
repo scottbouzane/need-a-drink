@@ -33,8 +33,14 @@ function App() {
       <Navbar />
 
       <Routes>
-        
+        <Route path='/home' element={<p>Home</p>}/>
+
+
       </Routes>
+
+
+
+
 
       
     </div>
