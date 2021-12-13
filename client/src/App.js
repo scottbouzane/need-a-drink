@@ -33,7 +33,7 @@ function App() {
       <Navbar />
 
       <Routes>
-        <Route path='/home' />
+        <Route path='/components/Name' />
 
 
       </Routes>
